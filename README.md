@@ -167,8 +167,7 @@ When Plaid Track Mode is engaged, adaptive suspension damping is optimized for t
 ## TESLA MAJOR COMPETITORS
 
 
-NIO
-A top choice in the EV market, NIO is strong in China, the world's largest EV market. NIO uses battery-swapping technology to address range anxiety. 
+NIO![nio](https://github.com/user-attachments/assets/301e2974-b28b-4cc8-94bc-f32d5e063c69)A top choice in the EV market, NIO is strong in China, the world's largest EV market. NIO uses battery-swapping technology to address range anxiety. 
  
 Rivian ![rivian](https://github.com/user-attachments/assets/2dde9b24-b11b-40b8-a82a-fd088816a4e1)
 Founded in 2009, Rivian is one of Tesla's biggest rivals. 
