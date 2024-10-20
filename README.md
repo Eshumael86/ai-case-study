@@ -182,7 +182,8 @@ This car is considered a competitor to Tesla's Model Y, but at a lower price poi
 ![Li Auto](https://github.com/user-attachments/assets/c5ac4ccc-3a65-4002-bbe7-dbd0aa8d7d27)
 Li Auto is considered Tesla's closest rival among pure-play electric vehicle (EV) companies. 
 
- 
+
+![chevrolet Bolt](https://github.com/user-attachments/assets/12be0cd5-7d5d-4f02-854e-4f8b72d93adb)
 Chevrolet Bolt
 This car directly competes with Tesla. 
 Ford, GM, and BYD Company Ltd.
