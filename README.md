@@ -172,7 +172,7 @@ NIO![nio](https://github.com/user-attachments/assets/301e2974-b28b-4cc8-94bc-f32
 Rivian ![rivian](https://github.com/user-attachments/assets/2dde9b24-b11b-40b8-a82a-fd088816a4e1)
 Founded in 2009, Rivian is one of Tesla's biggest rivals. 
  
-Hyundai Ioniq 5
+Hyundai Ioniq 5![hyundai](https://github.com/user-attachments/assets/a116a0c7-d1f3-416a-96b5-5ca43729dba9)
 This car is considered a competitor to Tesla's Model Y, but at a lower price point. Reviews note that it's spacious, comfortable, and has advanced driver assistance and quick charging. 
  
 Li Auto
