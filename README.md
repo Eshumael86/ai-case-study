@@ -164,6 +164,7 @@ During normal road driving, our stability control systems are optimized to limit
 ##### Adaptive Suspension Damping
 When Plaid Track Mode is engaged, adaptive suspension damping is optimized for track handling: reduced pitch during hard braking and fast acceleration, rebalanced damping to improve responsiveness, and faster settling of vehicle disturbances over bumpy segments to increase driver confidence. To facilitate consistent dynamic driving, ride height is set to Low on drive-off, and the suspension will no longer automatically raise to improve comfort.
 
+
 ## TESLA MAJOR COMPETITORS
 
 
@@ -176,7 +177,8 @@ Founded in 2009, Rivian is one of Tesla's biggest rivals.
 
  
 ![hyundai](https://github.com/user-attachments/assets/a116a0c7-d1f3-416a-96b5-5ca43729dba9)
-This car is considered a competitor to Tesla's Model Y, but at a lower price point. Reviews note that it's spacious, comfortable, and has advanced driver assistance and quick charging. 
+This car is considered a competitor to Tesla's Model Y, but at a lower price point. Reviews note that it's spacious, comfortable, and has 
+ advanced driver assistance and quick charging. 
 
  
 ![Li Auto](https://github.com/user-attachments/assets/c5ac4ccc-3a65-4002-bbe7-dbd0aa8d7d27)
