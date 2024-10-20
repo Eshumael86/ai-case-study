@@ -175,7 +175,7 @@ Founded in 2009, Rivian is one of Tesla's biggest rivals.
 Hyundai Ioniq 5![hyundai](https://github.com/user-attachments/assets/a116a0c7-d1f3-416a-96b5-5ca43729dba9)
 This car is considered a competitor to Tesla's Model Y, but at a lower price point. Reviews note that it's spacious, comfortable, and has advanced driver assistance and quick charging. 
  
-Li Auto
+Li Auto![Li Auto](https://github.com/user-attachments/assets/c5ac4ccc-3a65-4002-bbe7-dbd0aa8d7d27)
 Li Auto is considered Tesla's closest rival among pure-play electric vehicle (EV) companies. 
  
 Chevrolet Bolt
