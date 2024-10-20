@@ -1,7 +1,7 @@
 # AUTONOMOUS  DRIVING
 
 ## Introduction  Overview and Origin
-This case study explores how self driving technology is powered by artificial Intelligence (AI)
+This case study explores how self driving technology is powered by artificial Intelligence (AI) and how TESLA is uterlising this technology.
 The concept of autonomous driving dates back several decades, and the technology has evolved through various stages:
 
 
@@ -37,7 +37,29 @@ Tesla introduced its Autopilot system in 2014, offering semi-autonomous driving 
 During this period, key technologies emerged:
 
 ## LIDAR (Light Detection and Ranging): 
-LIDAR sensors provide high-resolution 3D maps of the environment, allowing autonomous systems to detect obstacles and navigate more effectively.
+sensors provide high-resolution 3D maps of the environment, allowing autonomous systems to detect obstacles and navigate more effectively.
 •	Machine Learning and Neural Networks: AI models, particularly deep learning, became critical for tasks like object detection, image recognition, and decision-making in real time.
+
+
+
+ # TESLA INC
+Tesla, Inc. was incorporated on July 1, 2003. It was founded by engineers Martin Eberhard and Marc Tarpenning with the goal of accelerating the transition to sustainable energy by producing electric vehicles (EVs). Elon Musk is often associated with Tesla's early days, he joined the company later, in 2004, after leading a $6.5 million Series A investment and becoming the largest shareholder. Musk became chairman of the board and played a crucial role in shaping Tesla’s strategy and growth, eventually taking over as CEO in 2008.
+
+
+## TESLA FOUNDERS:
+The founders of Tesla, Inc. are Martin Eberhard and Marc Tarpenning. They incorporated the company in 2003 with the vision of developing electric vehicles to accelerate the transition to sustainable energy.The idea for Tesla, Inc. came about through the vision of Martin Eberhard and Marc Tarpenning, who wanted to create an electric vehicle (EV) that could change the transportation industry by reducing dependence on fossil fuels. 
+
+
+
+## TESLA FUNDING:
+Elon Musk ,funded  $6.5 million investment and became the largest shareholder.He joined the company in 2004. Musk became chairman of the board and played a crucial role in shaping Tesla’s strategy and growth, eventually taking over as CEO in 2008.
+
+
+## BUSINESS ACTIVITIES 
+Tesla Inc (Tesla) is an automotive and energy company. It designs, develops, manufactures, sells, and leases electric vehicles, energy generation, and storage systems. It produces and sells the Model Y, Model 3, Model X, Model S, Cybertruck, Tesla Semi, and Tesla Roadster vehicles. Tesla also installs and maintains energy systems, sells solar electricity; and offers end-to-end clean energy products, including generation, storage, and consumption. It markets and sells vehicles to consumers through company-owned stores and galleries. The company has manufacturing facilities in the US, Germany, and China and has operations across the Asia Pacific and Europe. Tesla is headquartered in Austin, Texas, the US. 
+
+
+
+
 
 
