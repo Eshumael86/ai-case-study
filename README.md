@@ -38,8 +38,8 @@ Google launched its self-driving car project in 2009, which later became Waymo. 
 Tesla introduced its Autopilot system in 2014, offering semi-autonomous driving features, such as adaptive cruise control, lane centering, and self-parking. This system marked a significant step toward consumer adoption of partial autonomy.
 During this period, key technologies emerged:
 
-#### LIDAR (Light Detection and Ranging): 
-sensors provide high-resolution 3D maps of the environment, allowing autonomous systems to detect obstacles and navigate more effectively.
+##### LIDAR (Light Detection and Ranging): 
+LIDAR sensors provide high-resolution 3D maps of the environment, allowing autonomous systems to detect obstacles and navigate more effectively.
 •	Machine Learning and Neural Networks: AI models, particularly deep learning, became critical for tasks like object detection, image recognition, and decision-making in real time.
 
 
