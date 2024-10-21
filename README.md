@@ -175,24 +175,41 @@ When Plaid Track Mode is engaged, adaptive suspension damping is optimized for t
 
 
 ![nio](https://github.com/user-attachments/assets/301e2974-b28b-4cc8-94bc-f32d5e063c69)
+
+# NIO
 A top choice in the EV market, NIO is strong in China, the world's largest EV market. NIO uses battery-swapping technology to address range anxiety. 
+
 
  
 ![rivian](https://github.com/user-attachments/assets/2dde9b24-b11b-40b8-a82a-fd088816a4e1)
+
+# RIVIAN
 Founded in 2009, Rivian is one of Tesla's biggest rivals. 
+
+
 
  
 ![hyundai](https://github.com/user-attachments/assets/a116a0c7-d1f3-416a-96b5-5ca43729dba9)
+
+# Hyundai Ioniq 5
 This car is considered a competitor to Tesla's Model Y, but at a lower price point. Reviews note that it's spacious, comfortable, and has 
  advanced driver assistance and quick charging. 
 
+
+
  
 ![Li Auto](https://github.com/user-attachments/assets/c5ac4ccc-3a65-4002-bbe7-dbd0aa8d7d27)
+
+# LI AUTO
 Li Auto is considered Tesla's closest rival among pure-play electric vehicle (EV) companies. 
 
 
+
+
 ![chevrolet Bolt](https://github.com/user-attachments/assets/12be0cd5-7d5d-4f02-854e-4f8b72d93adb)
-Chevrolet Bolt
+
+# Chevrolet Bolt
+
 This car directly competes with Tesla. 
 Ford, GM, and BYD Company Ltd.
 These companies are also considered to be among Tesla's main competitors. 
