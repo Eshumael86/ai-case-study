@@ -206,6 +206,11 @@ These companies are also considered to be among Tesla's main competitors.
 I recommend Tesla should consider introducing more affordable electric vehicles for mass market appeal, further develop their autonomous driving technology, offer energy storage solutions tailored to smaller homes, provide subscription-based access to advanced features like full self-driving capabilities as a standard feature at no extra cost, and prioritize enhancing their charging network infrastructure with faster charging speeds and wider accessibility across different regions. Offering these products and upgrades will award the end users more advantages ,safe driving experience and efficiency. Full self-driving capabilities will use Machine Learning (ML) and this will make driving safer and hepl reduce traffic congestion.
 
 
+# RESOURCES
+
+. https://www.globaldata.com/company-profile/tesla-inc/![image](https://github.com/user-attachments/assets/495947d7-72b3-4721-a6af-f392d21a9038)
+
+
 
 
 
