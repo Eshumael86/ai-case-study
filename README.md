@@ -208,11 +208,17 @@ I recommend Tesla should consider introducing more affordable electric vehicles 
 
 # RESOURCES
 
-www.globaldata.com/company-profile/tesla-inc/![image](https://github.com/user-attachments/assets/495947d7-72b3-4721-a6af-f392d21a9038)
 
+
+www.tesla.com
+
+www.edrawmind.com
+
+www.tesla.com/blog/introducing-plaid-track-mode![image](https://github.com/user-attachments/assets/f3091612-c7ad-43ab-83e1-be85fd793752)
 
 www.edrawmind.com/article/tesla)![image](https://github.com/user-attachments/assets/1545fbaa-fdb8-4aac-b4ec-4971feed5d07
 
+www.globaldata.com/company-profile/tesla-inc/![image](https://github.com/user-attachments/assets/495947d7-72b3-4721-a6af-f392d21a9038)
 
 
 
