@@ -15,7 +15,7 @@ The first conceptual steps toward autonomous driving were explored. General Moto
 #### 1977:
 The Japanese engineer Tsukuba Mechanical Engineering Lab developed an early prototype of an autonomous car. This vehicle followed white street markings using analog computer processing, achieving speeds up to 30 km/h (19 mph).
 
-#### 2. The DARPA Challenges (2000s)
+## 2. The DARPA Challenges (2000s)
 A major milestone in autonomous driving came from the Defense Advanced Research Projects Agency (DARPA), a research wing of the U.S. Department of Defense, which held two challenges in the early 2000s that greatly accelerated development:
 
 #### 2004 DARPA Grand Challenge: 
