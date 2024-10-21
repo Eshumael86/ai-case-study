@@ -44,7 +44,11 @@ sensors provide high-resolution 3D maps of the environment, allowing autonomous 
 
 
 
- # TESLA INC
+
+![tesla ](https://github.com/user-attachments/assets/8c76a265-59d1-4a7e-83ff-7f17c154b567)
+](url) 
+
+# TESLA INC
 Tesla, Inc. was incorporated on July 1, 2003. It was founded by engineers Martin Eberhard and Marc Tarpenning with the goal of accelerating the transition to sustainable energy by producing electric vehicles (EVs). Elon Musk is often associated with Tesla's early days, he joined the company later, in 2004, after leading a $6.5 million Series A investment and becoming the largest shareholder. Musk became chairman of the board and played a crucial role in shaping Tesla’s strategy and growth, eventually taking over as CEO in 2008.
 
 
