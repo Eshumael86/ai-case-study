@@ -180,11 +180,15 @@ When Plaid Track Mode is engaged, adaptive suspension damping is optimized for t
 A top choice in the EV market, NIO is strong in China, the world's largest EV market. NIO uses battery-swapping technology to address range anxiety. 
 
 
+
+
  
 ![rivian](https://github.com/user-attachments/assets/2dde9b24-b11b-40b8-a82a-fd088816a4e1)
 
 # RIVIAN
 Founded in 2009, Rivian is one of Tesla's biggest rivals. 
+
+
 
 
 
@@ -197,11 +201,17 @@ This car is considered a competitor to Tesla's Model Y, but at a lower price poi
 
 
 
+
+
+
  
 ![Li Auto](https://github.com/user-attachments/assets/c5ac4ccc-3a65-4002-bbe7-dbd0aa8d7d27)
 
 # LI AUTO
 Li Auto is considered Tesla's closest rival among pure-play electric vehicle (EV) companies. 
+
+
+
 
 
 
@@ -219,7 +229,7 @@ These companies are also considered to be among Tesla's main competitors.
 
 ![FSD](https://github.com/user-attachments/assets/7dc93b15-c859-4df7-a581-897497d20d68) ![tesla s charger](https://github.com/user-attachments/assets/5170dae5-2291-4e51-a726-5a5089d96e34)
 
-I recommend Tesla should consider introducing more affordable electric vehicles for mass market appeal, further develop their autonomous driving technology, offer energy storage solutions tailored to smaller homes, provide subscription-based access to advanced features like full self-driving capabilities as a standard feature at no extra cost, and prioritize enhancing their charging network infrastructure with faster charging speeds and wider accessibility across different regions. Offering these products and upgrades will award the end users more advantages ,safe driving experience and efficiency. Full self-driving capabilities will use Machine Learning (ML) and this will make driving safer and hepl reduce traffic congestion.
+I recommend Tesla should consider introducing more affordable electric vehicles for mass market appeal, further develop their autonomous driving technology, offer energy storage solutions tailored to smaller homes, provide none subscription-based access to advanced features like full self-driving capabilities as a standard feature at no extra cost, and prioritize enhancing their charging network infrastructure with faster charging speeds and wider accessibility across different regions. Offering these products and upgrades will award the end users more advantages ,safe driving experience and efficiency. Full self-driving capabilities will use Machine Learning (ML) and this will make driving safer and hepl reduce traffic congestion.
 
 
 # RESOURCES
