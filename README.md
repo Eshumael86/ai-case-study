@@ -1,4 +1,6 @@
 # AUTONOMOUS  DRIVING
+![autonomous vehicles](https://github.com/user-attachments/assets/897c9636-e95a-4fad-a18d-15c33961dfb2)
+
 
 ## Introduction  Overview and Origin
 This case study explores how self driving technology is powered by artificial Intelligence (AI) and how TESLA INC is uses this technology to stay ahead of competitors.
